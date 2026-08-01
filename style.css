@@ -526,7 +526,6 @@ footer {
     gap: 2rem;
   }
 
-  /* Centered Text Alignment for Mobile View */
   .hero-text {
     display: flex;
     flex-direction: column;
